@@ -1,4 +1,4 @@
-# bash_ubuntu_xfce_rdp
+# linux_dev_xfce_setup
 
 Vagrantfile + script para desplegar un Servidor Ubuntu con entorno XFCE + servicio RDP habilitado + VS-CODE y Powershell.
 
